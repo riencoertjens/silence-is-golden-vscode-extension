@@ -12,7 +12,7 @@
 		"name": "Rien Coertjens"
 	},
 	"description": "generate random commented quote for empty index.js files in npm package",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.37.0"
 	},
