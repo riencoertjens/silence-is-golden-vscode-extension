@@ -2,6 +2,10 @@
 	"name": "silence-is-golden",
 	"displayName": "Silence is Golden",
 	"publisher": "riencoertjens",
+	"repository": {
+		"type": "git",
+		"directory": "https://github.com/riencoertjens/silence-is-golden-vscode-extension.git"
+	},
 	"author": {
 		"email": "rien@web-hart.com",
 		"url": "https://www.web-hart.com",
