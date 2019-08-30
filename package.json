@@ -11,8 +11,9 @@
 		"url": "https://www.web-hart.com",
 		"name": "Rien Coertjens"
 	},
+	"icon": "images/muted.png",
 	"description": "generate random commented quote for empty index.js files in npm package",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.37.0"
 	},

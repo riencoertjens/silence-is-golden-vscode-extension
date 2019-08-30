@@ -1,4 +1,4 @@
-# silence-is-golden README
+# Silence is Golden README
 
 Spice up your npm package empty index.js file (or any other empty files) with a fun quote about silence. Type `Insert silence` in command pallette (mac:`cmd+shift+p` windows:`ctrl+shift+p`) to clear the document and insert a random quote.
 
@@ -7,6 +7,8 @@ Spice up your npm package empty index.js file (or any other empty files) with a 
 ## More Info
 
 This is my first VS Code extension, I just had the idea and wasted my afternoon with it 🤦🏻‍.
+
+Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/)
 
 ### Help me help you
 
