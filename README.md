@@ -2,7 +2,7 @@
 
 Spice up your npm package empty index.js file (or any other empty files) with a fun quote about silence. Type `Insert silence` in command pallette (mac:`cmd+shift+p` windows:`ctrl+shift+p`) to clear the document and insert a random quote.
 
-\!\[feature X\]\(images/feature-x.png\)
+\!\[feature X\]\(images/silence.gif\)
 
 ## More Info
 
