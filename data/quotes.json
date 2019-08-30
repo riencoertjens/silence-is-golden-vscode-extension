@@ -1,5 +1,13 @@
 [
   {
+    "quote": "boop!",
+    "author": "@jlenstorf"
+  },
+  {
+    "quote": "HIIIIIIIIIIIIII! LAURIE WAS HERE",
+    "author": "@laurieontech"
+  },
+  {
     "quote": "Never miss a good chance to shut up.",
     "author": "Will Rogers"
   },
@@ -47,10 +55,6 @@
   {
     "quote": "There are grammatical errors even in his silence.",
     "author": "grammar nazi"
-  },
-  {
-    "quote": "boop!",
-    "author": "@jlenstorf"
   },
   {
     "quote": "Some people talk because they think sound is more manageable than silence.",

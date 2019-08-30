@@ -13,7 +13,7 @@
 	},
 	"icon": "images/muted.png",
 	"description": "generate random commented quote for empty index.js files in npm package",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.37.0"
 	},
