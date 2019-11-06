@@ -41,7 +41,8 @@ function activate(context) {
 
           var quote =
             quotes[Math.floor(Math.random() * quotes.length)];
-          var text = `// “${quote.quote}”`;
+          var text = `// “${quote.quote}”
+// for more silence, go to https://marketplace.visualstudio.com/items?itemName=riencoertjens.silence-is-golden`;
           if (quote.author) text += ` ― ${quote.author}`;
           editBuilder.replace(textRange, text);
         })
